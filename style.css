@@ -1,0 +1,68 @@
+ body{
+    margin: 100px;
+    padding: 100px; 
+   background-image: url(Images/ICC-Cricket-World-Cup.jpg); 
+ }
+ .invalid-input{
+     color: red;
+ }
+ .winner{
+    color:red;
+    font-size: 20px;
+}
+ /* .Bng{
+    color: green;
+} */
+/*.Ind{
+    background-color: navy;
+    color: white;
+}
+.bndWin{
+    color: white;
+}
+.indWin{
+    color: white;
+}
+
+.h1{
+    text-align: center;
+    margin-top: -150px;
+    background-color: navy;
+    color: #fff;
+}
+.winmoment{
+  text-align: center;
+  font-size: 100px;
+  background-color: navy;
+  color: #fff;
+} */
+ /* .btn{  */ */
+     /* margin-left: 300px;  */
+     /* font-size: 20px;
+    align-items: center;
+    background-color: navy;
+    color: green;
+}
+.btn:hover{
+    color:white;
+}
+.input-field{
+    margin-left: 400px;
+    font-size: 20px;
+}
+.teamBng{
+    text-align: center;
+    font-size: 100px;
+    background-color: navy;
+    color: #fff;
+    margin-top: 15px;
+}
+.teamInd{
+    text-align: center;
+    font-size: 100px;
+    background-color: navy;
+    color: #fff;
+}
+.BngTeamBtn{
+    margin-left: 400px;
+}  */
